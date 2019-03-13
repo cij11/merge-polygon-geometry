@@ -1,3 +1,8 @@
+# Usage
+
+Install the exercise by running `npm install` from the directory containing `package.json`.  
+Run unit tests by running `npm test` from the directory containing `package.json`.
+
 # Overview
 
 Implement an alogrthim that merges a pair of input polygons.

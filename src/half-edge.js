@@ -10,10 +10,13 @@ class HalfEdge {
 
     constructor() {
         
+        this.prev = null;
         this.next = null;
         this.pair = null;
 
         this.position = new Vector2();
+
+        this.intersections = [];
     }
 }
 
